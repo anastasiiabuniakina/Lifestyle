@@ -1,0 +1,19 @@
+.container {
+    max-width: 1000px;
+}
+.container nav {
+    margin-top: 10px;
+    margin: 20px 50px 100px 50px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 19px;
+    text-decoration: none;
+}
+/* margin: top right bottom left */
+*{
+    text-align: center;
+    background-color:lavender;
+}
+.button a {
+    cursor: pointer;
+}
